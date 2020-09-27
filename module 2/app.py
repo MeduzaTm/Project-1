@@ -6,7 +6,6 @@ slide2 = '(^_~)'
 slide3 = '(^_^)'
 slide4 = '(о_О)'
 slide5 = '(O_O)'
-slide6 = "Hello, World"
 
 
 time.sleep(5)
@@ -20,3 +19,5 @@ print(slide4)
 time.sleep(5)
 print(slide5)
 time.sleep(5)
+
+
